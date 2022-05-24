@@ -3,7 +3,9 @@ In this project we have done analysis on orange sa company dataset
 
 so by that dataset wereach to some conclusion as follows-
 
- CONCLUSION
+**** CONCLUSION****
+
+
 By the above analysis we get the following conclusions :
 
 From the 'CHURNED CUSTOMER'S CHART' we found that the churn rate is 14.5%.The average Churn rate for Telecom company should be 20-25%.So here Churn rate is good.
@@ -22,7 +24,9 @@ From the scatter plot 'Local Charge Per Minute' , We Conclude Day charges,eve ch
 
 By comparing 'Churn vs Intl plan' it is concluded that 50% of the people get churned those take the intl plan.It may be due to higher charges or may be due to network issue.
 
- SUGGESTION
+ **SUGGESTION
+ **
+ 
 Local charges are not same for all states so to reduce churn rate the company should make Local charge uniform in all states.
 
 we observe that more churn is due to expensive intl charge per minute so it should reduce its intl charge to reduce churn rate.
