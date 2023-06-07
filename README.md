@@ -1,4 +1,18 @@
 # Telecom-Churn---Analysis
+
+**INTRODUCTION**
+
+The telecommunications sector has become one of the largest industries in the developed world. Technological advancement and a growing number of users have increased the level of competition. Companies are working hard to survive in this competitive market based on a number of strategies. Three major strategies for generating additional revenue are proposed: - (a.) Acquiring new customers, (b.) Selling existing customers, and (c.) Extending the customer term. However, comparing these strategies by taking the amount of return on investment (RoI) per account showed that a third strategy is more profitable, proving that retaining an existing customer costs much less than getting a new one, moreover being considered much easier than a marketing strategy. In order to implement the third strategy, companies must reduce the power of customer exchange, known as "customer movement from one provider to another".
+
+**PROBLEM STATEMENT**
+In the telecommunications industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry is experiencing an average of  Churn between 15-25% per annum. Considering the fact that it costs 5-10 times more to find a new customer than an existing one, customer retention is now more important than customer acquisition. 
+For many potential users, keeping customers with high profits is the first goal of the business. 
+In order to reduce customer overcrowding, telecommunications companies need to predict which customers are most at risk of withdrawal.
+In this project, you will analyze the customer data of a leading telecom firm, create predictable models to identify customers at high risk of extinction and identify key churn indicators.
+
+
+
+**APPROACH**
 In this project we have done analysis on orange sa company dataset
 
 so by that dataset wereach to some conclusion as follows-
